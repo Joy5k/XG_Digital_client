@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { GoogleFont } from 'google-fonts';
 
 const Navbar = () => {
  
@@ -44,7 +43,6 @@ const Navbar = () => {
      
     </ul>
   </div>
-
   </div>
 </nav>
 
