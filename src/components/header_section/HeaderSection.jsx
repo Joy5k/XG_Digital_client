@@ -40,6 +40,7 @@ const HeaderSection = () => {
                         <img className='mx-auto' src={main2} alt="" />
                    </div>
              </div>
+            <div className='right_side_color'></div>
             </div>
         </div>
     );
